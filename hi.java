@@ -4,6 +4,6 @@ public class hi{
         System.out.println("호로로로롤!");
 
         System.out.println("냥냥펀지"); 
-        System.out.println("멍멍펀치!")
+        System.out.println("멍멍펀치!");
     }
 }
